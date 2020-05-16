@@ -1,0 +1,1 @@
+Model View->  With model view in power bi, you  can view and work with complex datasets that contain many tables.you can create your seprate diagram of your model that contain subsets of your model.or you can select multiple objects at once in modeling view  

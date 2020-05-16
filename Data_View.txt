@@ -1,0 +1,2 @@
+Data View->  Data view hepls to expole data and understand data in power bi desktop.with data view you are looking at your data after it has been loaded into the model. data view is where you can apply your formulas
+ 

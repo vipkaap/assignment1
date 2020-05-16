@@ -1,0 +1,1 @@
+Advance_Editor->  it helps you to create your own shaping code. the advance editor lets you see the code that power query editor is creating with each step. A Window showing the existing query code.you can diretly edit code in the advance editor window 

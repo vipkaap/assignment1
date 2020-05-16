@@ -1,0 +1,50 @@
+Power BI Desktop->
+
+ power bi is the free version of power bi that you can install on your local computer as a program and acts as a comparision desktop application to the full power bi.it's the perfect version to start with for all skill levels whether you are not-IT and want to make your reports more intractive.
+
+1-  the same rich visualization and filters from power bi pro
+2- python support 
+3- save, upload and publish your reports to the web and the full power bi service 
+4- storage limit of 10 GB per user 
+
+Can't Do->
+
+1- Can’t share created reports with non-Power BI Pro users
+2- No App Workspaces
+3- No API embedding
+4- No email subscriptions
+5- No peer-to-peer-sharing
+6- No support to analyse in Excel within Power BI Desktop
+
+Price - free version
+
+
+
+power BI Pro-> 
+
+
+Power Bi pro is the full version of power bi, complete with the ability to use power bi for both building dashboard and reports and unlimited viewing ,sharing and consumption of your created reports.
+
+
+1- Native integration with other microsoft solution 
+2- share datasets dashboards and reports with other power bi pro user 
+3- can create App Workspace and peer-to-peer sharing 
+
+price -  $9.99 user/month(Rs.749.25 Indian Rupee)
+
+
+Power Bi Premium->
+
+
+Power Bi Premium is the most expensive tier of power bi currently available and very distinct from the other two versions available on the market 
+
+
+1- Increased data capacity limits and maximum performance
+2- Access to one API surface
+3- Ability to embed Power BI visuals into apps (PowerApps, SharePoint, Teams, etc)
+4- Larger storage sizes for extended deployments
+5- Geo distribution, higher refresh rates, isolation, pin to memory, read-only replicas
+6- Power BI Report Server
+
+Price- $4,995 Monthly price per dedicated cloud compute and storage resource with annual subscription
+

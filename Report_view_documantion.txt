@@ -1,0 +1,1 @@
+Report View ->Power Bi desktop include a report view, where you can create any numbers of reports  with visualization, you can move your visualization around copy and paste, merge and many more. And this is the page where you are starting you visual effect with right insight and filter. 

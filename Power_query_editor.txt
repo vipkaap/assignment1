@@ -1,0 +1,1 @@
+Power Query Editor- >  Use power bi query editor to connect to one or many data source ,shape and transform the data to meet your needs.
